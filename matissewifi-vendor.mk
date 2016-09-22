@@ -21,26 +21,21 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/matissewifi/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/matissewifi/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/samsung/matissewifi/proprietary/lib/libmdmdetect.so:system/lib/libmdmdetect.so \
-    vendor/samsung/matissewifi/proprietary/lib/libperipheral_client.so:system/lib/libperipheral_client.so \
     vendor/samsung/matissewifi/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
     vendor/samsung/matissewifi/proprietary/lib/libril.so:system/lib/libril.so \
-    vendor/samsung/matissewifi/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/matissewifi/proprietary/lib/librilutils.so:system/lib/librilutils.so \
     vendor/samsung/matissewifi/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/matissewifi/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/matissewifi/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
     vendor/samsung/matissewifi/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
     vendor/samsung/matissewifi/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
-    vendor/samsung/matissewifi/proprietary/vendor/lib/libdsi_netctrl.so:system/vendor/lib/libdsi_netctrl.so \
     vendor/samsung/matissewifi/proprietary/vendor/lib/libidl.so:system/vendor/lib/libidl.so \
     vendor/samsung/matissewifi/proprietary/vendor/lib/libnetmgr.so:system/vendor/lib/libnetmgr.so \
     vendor/samsung/matissewifi/proprietary/vendor/lib/libqcci_legacy.so:system/vendor/lib/libqcci_legacy.so \
-    vendor/samsung/matissewifi/proprietary/vendor/lib/libqdi.so:system/vendor/lib/libqdi.so \
     vendor/samsung/matissewifi/proprietary/vendor/lib/libqmi_cci.so:system/vendor/lib/libqmi_cci.so \
     vendor/samsung/matissewifi/proprietary/vendor/lib/libqmi_client_qmux.so:system/vendor/lib/libqmi_client_qmux.so \
     vendor/samsung/matissewifi/proprietary/vendor/lib/libqmi_common_so.so:system/vendor/lib/libqmi_common_so.so \
     vendor/samsung/matissewifi/proprietary/vendor/lib/libqmi_csi.so:system/vendor/lib/libqmi_csi.so \
     vendor/samsung/matissewifi/proprietary/vendor/lib/libqmi_encdec.so:system/vendor/lib/libqmi_encdec.so \
     vendor/samsung/matissewifi/proprietary/vendor/lib/libqmiservices.so:system/vendor/lib/libqmiservices.so \
-    vendor/samsung/matissewifi/proprietary/vendor/lib/libqmi.so:system/vendor/lib/libqmi.so \
-    vendor/samsung/matissewifi/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so
+    vendor/samsung/matissewifi/proprietary/vendor/lib/libqmi.so:system/vendor/lib/libqmi.so
